@@ -1,0 +1,5 @@
+{
+  "name": "CoverFlow: Spotify-Style ID3 Tagger",
+  "description": "A high-end client-side tool to embed album art into MP3 files with a sleek, responsive Spotify-inspired interface.",
+  "requestFramePermissions": []
+}
